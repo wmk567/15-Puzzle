@@ -15,7 +15,7 @@ Program ini menyelesaikan persoalan 15-Puzzle yang disimpan dalam sebuah file .t
 
 ## Cara Menjalankan Program
 1. Gunakan Command Prompt atau Windows Powershell untuk membuka folder "src" yang menyimpan file "puzzleSolver.py"
-2. Gunakan perintah berikut untuk menyelesaikan puzzle <br>
+2. Gunakan perintah berikut untuk menyelesaikan puzzle : <br>
 Untuk Command Prompt :
 ```bash
 puzzleSolver.py ..\test\<namafile>.txt
