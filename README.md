@@ -21,6 +21,7 @@ Untuk Command Prompt :
 ```bash
 puzzleSolver.py ..\test\<namafile>.txt
 ```
+<br>
 Untuk Windows Powershell :
 ```bash
 .\puzzleSolver.py ..\test\<namafile>.txt
